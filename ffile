@@ -1,8 +1,4 @@
 
-https://www.tinkercad.com/things/bJe53YwePrf-magnificent-amberis-bruticus?sharecode=pZsqGF5UQ5Jih0ILYpPt7sbj7eoSyCp6up5WEvHrDqI
-https://www.tinkercad.com/things/fbWi48cdDFN-mighty-jaiks?sharecode=bmdoXDJm3N6PcGAcDh-z9A9Fbg3nNHv1U3mk3XTb4eg
-https://www.tinkercad.com/things/1KTHn5D8tcr-trfaic-controler?sharecode=h1bbDfuAEpm-V3jSngV7CX1mzEHgrpuD662MqaiaERg
-https://www.tinkercad.com/things/7CPrR0fceu8-bodacious-kieran-densor?sharecode=bipJheEtRYIowTX6RosYZpLr-18Pi5HZQozVvgU7Os8
 // C++ code
 // Serial Communication LiquidCrystal_I2C and Ultrasonic
 #include <LiquidCrystal_I2C.h>
